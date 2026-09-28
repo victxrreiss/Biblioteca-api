@@ -11,5 +11,4 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     # TODO: implementação pendente — responsabilidade de outro integrante do grupo.
     path("api/", include("biblioteca.urls")),
-    #path("api/", include())
 ]
