@@ -1,5 +1,3 @@
-# TODO: implementação pendente — responsabilidade de outro integrante do grupo.
-
 from rest_framework.routers import DefaultRouter
 from .views import AutorViewSet, LivroViewSet, AutorResumoViewSet, LivroResumoViewSet
 

@@ -1,5 +1,3 @@
-# TODO: implementação pendente — responsabilidade de outro integrante do grupo.
-
 from rest_framework import viewsets
 from .models import Autor,Livro
 from .serializers import AutorSerializer, LivroSerializer, AutorResumoSerializer, LivroResumoSerializer
